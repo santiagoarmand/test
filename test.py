@@ -1,2 +1,2 @@
-#My Demo | 
-[link demo: https://github.com/santiagoarmand/test]
+#My Demo |
+print("link demo: https://github.com/santiagoarmand/test")
